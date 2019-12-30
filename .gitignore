@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+node_modules
+themes/*/
+!themes/next/source/css/_custom/custom.styl
+!themes/next/_config.yml
+db.json
+.deploy_git
+*.log
+public/
+.deploy*/
