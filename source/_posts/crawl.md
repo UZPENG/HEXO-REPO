@@ -1,5 +1,5 @@
 ---
-title: 爬虫实践--淘数据网站的数据爬取和存储
+title: 爬虫实践--某数据网站的数据爬取和存储
 date: 2017-12-26 19:36:59
 tags:
 - 网络
@@ -38,7 +38,7 @@ Windows 10 10.0
 
 ### 确定目标
 
-我要抓取的网站是[淘数据](http://www.taosj.com/index.html#/shop/detail/?id=59915065)的店铺监控下面的鸿星尔克、德芙、Opus三家店铺的数据，具体的数据如下图所示:
+我要抓取的网站是[这个](http://www.taosj.com/index.html#/shop/detail/?id=59915065)的店铺监控下面的鸿星尔克、德芙、Opus三家店铺的数据，具体的数据如下图所示:
 ![](/img/spider_1.png)
 
 
